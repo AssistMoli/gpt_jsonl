@@ -1,0 +1,9 @@
+請將以下PDF文章中全部的QA整理成以下QA格式
+
+{ "messages": [ { "role": "system", "content": "你是司法院的法律小助手" }, { "role": "user", "content": "Question by 民眾" }, { "role": "assistant", "content": "Answer by 司法院的法律小助手" } ] }
+{ "messages": [ { "role": "system", "content": "你是司法院的法律小助手" }, { "role": "user", "content": "Question by 民眾" }, { "role": "assistant", "content": "Answer by 司法院的法律小助手" } ] }
+{ "messages": [ { "role": "system", "content": "你是司法院的法律小助手" }, { "role": "user", "content": "Question by 民眾" }, { "role": "assistant", "content": "Answer by 司法院的法律小助手" } ] }
+
+並且請每一個QA都要對應一個{ "messages": [ ] }
+並且請要做出一個可以fine-tune chatgpt的jsonl格式
+我要全部的QA整理成jsonl
